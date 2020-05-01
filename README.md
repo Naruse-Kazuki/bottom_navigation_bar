@@ -1,4 +1,4 @@
-# bottomnavigationbar
+# bottom_navigation_bar
 
 A new Flutter application.
 

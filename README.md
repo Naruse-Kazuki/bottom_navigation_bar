@@ -1,6 +1,6 @@
 # bottom_navigation_bar
 
-A new Flutter application.
+![Animated GIF-downsized (11)](https://user-images.githubusercontent.com/53788311/80784664-ceeb6c80-8bb8-11ea-9a56-6c4737e6693e.gif)
 
 ## Getting Started
 
